@@ -1,0 +1,15 @@
+images {
+  image: "/main/images/generator1.png"
+}
+images {
+  image: "/main/images/lightbar1.png"
+}
+images {
+  image: "/main/images/ruchka1.png"
+}
+images {
+  image: "/main/images/ruchka2.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

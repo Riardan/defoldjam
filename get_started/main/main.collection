@@ -1,0 +1,62 @@
+name: "main"
+collection_instances {
+  id: "background"
+  collection: "/main/background.collection"
+  position {
+    x: 0.0
+    y: 50.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "counter"
+  collection: "/main/temporary_testing_stuff/counter.collection"
+  position {
+    x: 67.20638
+    y: 842.75995
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "generator"
+  collection: "/main/objects/generator/generator.collection"
+  position {
+    x: 304.3682
+    y: 284.73807
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+scale_along_z: 0

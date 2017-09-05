@@ -1,0 +1,8 @@
+key_trigger {
+  input: KEY_ESC
+  action: "ESC"
+}
+mouse_trigger {
+  input: MOUSE_BUTTON_LEFT
+  action: "LEFT_CLICK"
+}
